@@ -2,9 +2,9 @@
 title: "An Introduction to Testing"
 collection: talks
 type: "Talk"
-permalink: /talks/2016-03-01-intro-testing
+permalink: /talks/2023-01-09-intro-testing
 venue: "Test University, Department of Testing Science"
-date: 2016-03-01
+date: 2023-01-09
 location: "San Francisco, California"
 ---
 
